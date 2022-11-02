@@ -2,9 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class ForLoop : MonoBehaviour
 {
-    int numEnemies = 3
+    int numEnemies = 3;
     // Start is called before the first frame update
     void Start()
     {
